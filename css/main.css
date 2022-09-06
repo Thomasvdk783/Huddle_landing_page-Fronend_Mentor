@@ -21,6 +21,7 @@ body{
 header{
     max-width: 1240px;
     width: 100%;
+    margin-bottom: 90px;
 }
 
 .main-content{
